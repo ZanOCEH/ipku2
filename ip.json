@@ -1,92 +1,14 @@
 [
-  {
-    "username": "keanu",
-    "Ip": "159.65.133.180",
-    "Access": true,
-    "Added on": "2"
-  },
-  {
-    "username": "pinaa",
-    "Ip": "188.166.216.28",
-    "Access": true,
-    "Added on": "2"
-  },
-  {
-    "username": "Firman",
-    "Ip": "146.190.170.43",
-    "Access": true,
-    "Added on": "2"
-  },
-  {
-    "username": "keyla",
-    "Ip": "185.117.0.66",
-    "Access": true,
-    "Added on": "2"
-  },
-  {
-    "username": "Rasbokep",
-    "Ip": "188.166.191.126",
-    "Access": true,
-    "Added on": "2"
-  },
-  {
-    "username": "Edy",
-    "Ip": "103.196.152.125",
-    "Access": true,
-    "Added on": "2"
-  },
-  {
-    "username": "mucha",
-    "Ip": "2602:294:0:7f:1234:1234:893f:1",
-    "Access": true,
-    "Added on": "2"
-  },
-  { 
-   "username": "pharita",
-    "Ip": "139.59.120.193",
-    "Access": true,
-    "Added on": "2"
-  },
-  { 
-  "username": "Ranz",
-    "Ip": "68.183.237.114",
-    "Access": true,
-    "Added on": "2"
-  },
-  { 
-  "username": "Dani",
-    "Ip": "143.198.198.50",
+{ 
+    "username": "kizal",
+    "Ip": "174.138.57.174",
     "Access": true,
     "Added on": ""
-  },
-  { 
-    "username": "aditya",
-    "Ip": "170.64.136.34",
-    "Access": true,
-    "Added on": ""
-  },
-  { 
-  "username": "ricko",
-    "Ip": "134.122.65.149",
-    "Access": true,
-    "Added on": ""
-  },
-  { 
-  "username": "Yuto",
-    "Ip": "142.93.227.233",
-    "Access": true,
-    "Added on": ""
-  },
-  { 
-  "username": "Dimas",
-    "Ip": "146.190.226.131",
-    "Access": true,
-    "Added on": ""
-  },
-  { 
+}
+{ 
     "username": "",
     "Ip": "",
     "Access": true,
     "Added on": ""
-  }
+}
 ]
