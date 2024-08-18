@@ -1,9 +1,15 @@
 [
   {
-    "username": "kizal",
+    "username": "Adtya",
     "Ip": "170.64.136.34",
     "Access": true,
-    "Added on": "5"
+    "Added on": "1"
+  },
+  {
+    "username": "dit",
+    "Ip": "165.232.167.32",
+    "Access": true,
+    "Added on": "2"
   },
   {
     "username": "",
@@ -80,18 +86,6 @@
   { 
     "username": "",
     "Ip": "",
-    "Access": true,
-    "Added on": ""
-  },
-  {
-    "username": "tes",
-    "Ip": "138.197.108.228",
-    "Access": true,
-    "Added on": ""
-  }, 
-  {
-    "username": "AditXUdin",
-    "Ip": "165.232.167.32",
     "Access": true,
     "Added on": ""
   }
